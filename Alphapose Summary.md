@@ -2,7 +2,7 @@
 
 # Alphapose Summary
 ## 1.Paper
-### 1.1 download <img src="https://github.com/wmj142326/Img_packag/raw/alphapose/2.baidudownload.png" align="" style="height: 6px"/>
+### 1.1 download <img src="https://github.com/wmj142326/Img_packag/raw/alphapose/2.baidudownload.png" style="height: 6px"/>
 
 * paper link:  [RMPE：Regional Multi-Person Pose Estimation](https://pan.baidu.com/s/1L1sAJQVqigGSewF_QrZ6_w ). 
 
