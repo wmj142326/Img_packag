@@ -86,7 +86,7 @@ Alphapose代码的部分注释在下面链接，可随时更新下载：
 
 * alphapose link:[Alphapose](https://pan.baidu.com/s/1Q7QpvhjanWYZ0b0GxQU6hA)
 
-* passward: **18re **
+* passward: **18re**
 
   注释部分主要包括以下`alphapose`文件夹和`train.py`中**main()**函数的部分:
 
