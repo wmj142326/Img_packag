@@ -82,11 +82,11 @@ python scripts/demo_inference.py --cfg configs/coco/resnet/256x192_res50_lr1e-3_
 
 ### 3.1 download<img src="https://github.com/wmj142326/Img_packag/raw/alphapose/2.baidudownload.png" width="3%"/>
 
-Alphapose代码的部分注释在下面链接，可随时更新下载：
+Alphapose代码的部分注释在下面链接，可随时**更新**下载：
 
 * alphapose link:[Alphapose](https://pan.baidu.com/s/1Q7QpvhjanWYZ0b0GxQU6hA)
 
-* passward: **18re**
+* passward: **18re **
 
   注释部分主要包括以下`alphapose`文件夹和`train.py`中**main()**函数的部分:
 
